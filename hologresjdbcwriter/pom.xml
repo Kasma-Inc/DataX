@@ -14,11 +14,6 @@
     <packaging>jar</packaging>
     <description>writer data into  hologres using jdbc</description>
 
-    <properties>
-        <jdk-version>1.8
-
-        </jdk-version>
-    </properties>
     <dependencies>
         <dependency>
             <groupId>com.alibaba.datax</groupId>
