@@ -1,0 +1,9 @@
+{
+    "name": "neo4jreader",
+    "parameter": {
+        "boltUrl": "",
+        "username": "",
+        "password": "",
+        "query": ""
+    }
+}

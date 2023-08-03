@@ -1,0 +1,6 @@
+{
+    "name": "neo4jreader",
+    "class": "com.alibaba.datax.plugin.reader.neo4jreader.Neo4jReader",
+    "description": "The neo4j reader.",
+    "developer": "graxy"
+}
