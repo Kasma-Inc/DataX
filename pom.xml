@@ -125,6 +125,7 @@
         <module>adbmysqlwriter</module>
         <module>neo4jreader</module>
 
+        <module>neo4jwriter</module>
         <!-- common support module -->
         <module>plugin-rdbms-util</module>
         <module>plugin-unstructured-storage-util</module>

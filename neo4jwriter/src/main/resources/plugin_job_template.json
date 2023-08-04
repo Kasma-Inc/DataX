@@ -1,0 +1,22 @@
+{
+    "name": "neo4jwriter",
+    "parameter": {
+        "boltUrl": "",
+        "username": "",
+        "password": "",
+        "label": "",
+        "type": "",
+        "properties": [],
+        "sourceType": "",
+        "sourceField": "",
+        "sourceUniqueField": "",
+        "targetType": "",
+        "targetField": "",
+        "targetUniqueField": "",
+        "direction": "",
+        "preStatements": [],
+        "postStatements": [],
+        "writeMode": "",
+        "batchSize": 2048
+    }
+}
